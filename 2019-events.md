@@ -13,4 +13,5 @@
 * 12:00 - 13:30 Lunch break
 * 13:30 - 15:00 OHCF Unconference - Topics Introduction (OpenStack, Kubernetes, RISC-V, Linuxboot, OCP, ...). Optional: Open Source: Accelerating Innovation in the AI Market, Ibrahim Haddad (LFAI Foundation) - [#6](https://github.com/open-heterogeneous-computing-framework/conference/issues/6)
 * 15:00 - 16:00 OHCF Unconference - Discussion and Summary (All Attendee)
+#### [Slides](https://github.com/open-heterogeneous-computing-framework/conference/tree/master/kubecon-shanghai-2019)
 
